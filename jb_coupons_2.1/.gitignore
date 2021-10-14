@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Shugar211211 
-github
-/
-gitignore
-Public
-3.2k
-124k69.6k
-Code
-Pull requests
-333
-Actions
-Security
-Insights
-gitignore/Global/Eclipse.gitignore
-@larry1186
-larry1186 [Global/Eclipse] Make .project opt-in (#3305)
-…
-Latest commit 584ee18 on Feb 10, 2020
- History
- 31 contributors
-@shiftkey@sherzodv@tyutyutyu@aroben@Utumno@segfly@drasolka@rlee287@rafiw@raeglan@mimibar@fhemberger
-60 lines (45 sloc)  947 Bytes
-   
 .metadata
 bin/
 tmp/
@@ -88,15 +58,3 @@ local.properties
 # Uncomment this line if you wish to ignore the project description file.
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
